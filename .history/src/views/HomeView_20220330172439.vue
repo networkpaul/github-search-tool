@@ -22,7 +22,7 @@ export default {
 
   data () {
     return {
-      darkThemeOn: false
+      darkThemeOn: true
     } 
   }
 }
